@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/-Open%20To%20Work-brightgreen) ![](https://img.shields.io/badge/Seeking-Software%20Engineer-red)
 
-I am now in the discipline of Computer Science :computer: and focusing on Cyber-Physical Systems at the [University of Virginia](https://www.virginia.edu/) <img width="16.88px" height="15" src="https://i.imgur.com/CbORNOa.png" />. I am conducting research on data privacy policy on IoT platforms at [Link Lab](https://engineering.virginia.edu/link-lab). In the meantime, I join [UVA DevHub](https://devhub.virginia.edu/) as a Software Engineer Intern and develop backend systems for sensor data.
+I am now in the discipline of Computer Science :computer: and focusing on Cyber-Physical Systems at the [University of Virginia](https://www.virginia.edu/) <img width="16.88px" height="15" src="https://i.imgur.com/CbORNOa.png" />. I am researching on data privacy policy on IoT platforms at [Link Lab](https://engineering.virginia.edu/link-lab). In the meantime, I join [UVA DevHub](https://devhub.virginia.edu/) as a Software Engineer Intern and develop backend systems for sensor data.
 
 <a href="https://www.linkedin.com/in/huanglipang">
   <img align="left" alt="linkedin" width="25px" src="https://cdn3.iconfinder.com/data/icons/social-network-icon/112/linkedin-512.png" />
@@ -18,7 +18,9 @@ I am now in the discipline of Computer Science :computer: and focusing on Cyber-
 ![](https://img.shields.io/github/last-commit/huanglipang/huanglipang)
 [![hackmd-github-sync-badge](https://hackmd.io/JBhRSJrBTQ21sswgSTGA1w/badge)](https://hackmd.io/JBhRSJrBTQ21sswgSTGA1w)
 
+<a href="https://www.virginia.edu/">
 <img width="102px" height="62.6" src="https://i.imgur.com/lF0kUkZ.png" />
+</a>
 <!--
 **HuangLiPang/HuangLiPang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
