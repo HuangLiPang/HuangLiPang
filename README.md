@@ -3,10 +3,10 @@
 
 I am now in the discipline of Computer Science :computer: and focusing on Cyber-Physical Systems at the [University of Virginia](https://www.virginia.edu/) <img width="16.88px" height="15" src="https://i.imgur.com/CbORNOa.png" />. I am researching on data privacy policy on IoT platforms at [Link Lab](https://engineering.virginia.edu/link-lab). In the meantime, I join [UVA DevHub](https://devhub.virginia.edu/) as a Software Engineer Intern and develop backend systems for sensor data.
 
-<a href="https://www.linkedin.com/in/huanglipang">
+<a href="https://www.linkedin.com/in/huanglipang" target="_blank">
   <img align="left" alt="linkedin" width="25px" src="https://cdn3.iconfinder.com/data/icons/social-network-icon/112/linkedin-512.png" />
 </a>
-<a href="https://github.com/HuangLiPang">
+<a href="https://github.com/HuangLiPang" target="_blank">
   <img align="left" alt="github" width="25px" src="https://i.imgur.com/BYswT8D.png" />
 </a>
 <br><br>
@@ -17,7 +17,7 @@ I am now in the discipline of Computer Science :computer: and focusing on Cyber-
 ![](https://img.shields.io/github/last-commit/huanglipang/huanglipang)
 [![hackmd-github-sync-badge](https://hackmd.io/JBhRSJrBTQ21sswgSTGA1w/badge)](https://hackmd.io/JBhRSJrBTQ21sswgSTGA1w)
 
-<a href="https://www.virginia.edu/">
+<a href="https://www.virginia.edu/" target="_blank">
 <img width="102px" height="62.6" alt="uva" src="https://i.imgur.com/lF0kUkZ.png" />
 </a>
 <!--
