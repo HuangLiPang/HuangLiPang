@@ -1,9 +1,10 @@
 
 # Hello!! 👋 I am Li-Pang Huang :grinning:
+###### tags: `GitHub README`
 ![](https://img.shields.io/badge/-Open%20To%20Work-brightgreen) ![](https://img.shields.io/badge/Seeking-Software%20Engineer-red)
 
 ### About me
-I am now in the discipline of Computer Science :computer: and focusing on Cyber-Physical Systems at the [University of Virginia](https://www.virginia.edu/) <img width="16.88px" height="15" src="https://i.imgur.com/CbORNOa.png" />. I am researching on data privacy policy on IoT platforms at [Link Lab](https://engineering.virginia.edu/link-lab). In the meantime, I join [UVA DevHub](https://devhub.virginia.edu/) as a Software Engineer Intern and develop backend systems for sensor data.
+I am currently studying in the discipline of computer science :computer: and focusing on cyber-physical systems at the [University of Virginia](https://www.virginia.edu/) <img width="16.88px" height="15" src="https://i.imgur.com/CbORNOa.png" />. I am working on mechanisms of data privacy policy on IoT platforms at the [Link Lab](https://engineering.virginia.edu/link-lab). In addition, I have joined the [UVA DevHub](https://devhub.virginia.edu/) as a software engineer intern. I am responsible for developing a login-based dashboard as well as ingesting applications for sensor data from different sources.
 
 ### Get in touch
 <a href="https://www.linkedin.com/in/huanglipang" target="_blank">
