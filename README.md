@@ -13,8 +13,11 @@ I am currently studying in the discipline of computer science :computer: and foc
 <a href="https://github.com/HuangLiPang" target="_blank">
   <img align="left" alt="github" width="25px" src="https://i.imgur.com/BYswT8D.png" />
 </a>
+<a href="https://huanglipang.me" target="_blank">
+  <img align="left" alt="homepage" width="25px" src="https://i.imgur.com/CzvZnaa.png" />
+</a>
 <a href="mailto:huanglipang@virginia.edu" target="_blank">
-  <img align="left" alt="github" width="25px" src="https://i.imgur.com/AfHYq76.png" />
+  <img align="left" alt="mail" width="25px" src="https://i.imgur.com/AfHYq76.png" />
 </a>
 <br><br>
 
