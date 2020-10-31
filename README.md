@@ -1,5 +1,5 @@
 
-# Hello!! 👋 I am Li-Pang Huang :grinning:
+# Hello! 👋 I am Li-Pang Huang :grinning:
 ###### tags: `GitHub README`
 ![](https://img.shields.io/badge/-Open%20To%20Work-brightgreen) ![](https://img.shields.io/badge/Seeking-Software%20Engineer-red)
 
@@ -16,9 +16,13 @@ I am currently studying in the discipline of computer science :computer: and foc
 <a href="https://huanglipang.me" target="_blank">
   <img align="left" alt="homepage" width="25px" src="https://i.imgur.com/CzvZnaa.png" />
 </a>
-<a href="mailto:huanglipang@virginia.edu" target="_blank">
-  <img align="left" alt="mail" width="25px" src="https://i.imgur.com/AfHYq76.png" />
+<a href="https://info.huanglipang.me" target="_blank">
+  <img align="left" alt="info" width="25px" src="https://i.imgur.com/OqAAXLh.png" />
 </a>
+<a href="mailto:huanglipang@virginia.edu" target="_blank">
+  <img align="left" alt="email" width="25px" src="https://i.imgur.com/AfHYq76.png" />
+</a>
+
 <br><br>
 
 ![Li-Pang's github stats](https://github-readme-stats.vercel.app/api?username=huanglipang&show_icons=true)
