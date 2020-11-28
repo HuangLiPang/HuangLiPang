@@ -22,6 +22,9 @@ I am currently studying in the discipline of computer science :computer: and foc
 <a href="mailto:huanglipang@virginia.edu" target="_blank">
   <img align="left" alt="email" width="25px" src="https://i.imgur.com/AfHYq76.png" />
 </a>
+<a href="https://huanglipang.me/resume" target="_blank">
+  <img align="left" alt="resume" width="25px" src="https://i.imgur.com/DA0BgeJ.png" />
+</a>
 
 <br>
 
