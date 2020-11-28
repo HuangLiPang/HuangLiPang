@@ -23,7 +23,10 @@ I am currently studying in the discipline of computer science :computer: and foc
   <img align="left" alt="email" width="25px" src="https://i.imgur.com/AfHYq76.png" />
 </a>
 
-<br><br>
+### Projects
+Please check [here](Projects.md).
+
+<br>
 
 ![Li-Pang's github stats](https://github-readme-stats.vercel.app/api?username=huanglipang&show_icons=true)
 
