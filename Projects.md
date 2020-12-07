@@ -15,7 +15,7 @@
 4. Url Shortener:
     - A url shortener hosted on heroku and mongodb altas.
     - [Application](https://url-shortener.huanglipang.me/)
-    - [Source code](https://github.com/HuangLiPang/URL-Shortner)
+    - [Source code](https://github.com/HuangLiPang/URL-Shortener)
 
 5. Search Million Rows: 
     - A demo for searching words from 2+ million rows in just a few seconds.
