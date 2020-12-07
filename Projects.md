@@ -1,22 +1,41 @@
 # Projects
-1. [Termifolio](https://github.com/HuangLiPang/termifolio): Web terminal portforlio.
+1. Termifolio: 
+    - My portfolio based on a web terminal.
+    - [Termifolio](https://huanglipang.me/)
+    - [Source code](https://github.com/HuangLiPang/termifolio)
 
-2. [On the Edge](https://github.com/nabeeln7/on-the-edge): A distributed IoT platform with data privcay policy.
+2. On the Edge: 
+    - A distributed IoT platform with data privcay policy.
+    - [Source code](https://github.com/nabeeln7/on-the-edge)
 
-3. [Url Shortener](https://url-shortener.huanglipang.me/): A url shortener hosted on heroku and mongodb altas.
+3. Url Shortener:
+    - A url shortener hosted on heroku and mongodb altas.
+    - [Application](https://url-shortener.huanglipang.me/)
+    - [Source code](https://github.com/HuangLiPang/URL-Shortner)
 
-4. [Search Million Rows](https://search-million-rows.huanglipang.me/): A demo for searching strings from 2 million rows in just few seconds.
+4. Search Million Rows: 
+    - A demo for searching words from 2+ million rows in just a few seconds.
+    - [Application](https://search-million-rows.huanglipang.me/)
+    - [Source code](https://github.com/HuangLiPang/million-rows)
 
-5. [Serverless Info Page](https://info.huanglipang.me): A static web page hosted on cloudflare worker.
+5. Serverless Info Page: 
+    - A static web page hosted on cloudflare worker.
+    - [Link](https://info.huanglipang.me)
 
-6. [Severless Line Bot Reminder](https://github.com/HuangLiPang/serverless-linebot-reminder-heroku-scheduler): A line bot reminder hosted on heroku with scheduler add-on.
+6. Severless Line Bot Reminder:
+    - A line bot reminder hosted on heroku with scheduler add-on.
+    - [Source code](https://github.com/HuangLiPang/serverless-linebot-reminder-heroku-scheduler)
 
 7. PM 2.5 Data Visualization
     - [PM 2.5 Inverse Distance Weighting (IDW) Map](https://pm25.lass-net.org/GIS/IDW/)
     - [PM 2.5 Voronoi Map](https://pm25.lass-net.org/GIS/voronoi/)
 
-8. [Route Reference](https://route.robodock.net/): A fleet monitor web application.
+8. Route Reference:
+    - A fleet monitor web application.
+    - [Applcation](https://route.robodock.net/)
 
-9. [Linebot Echoer](https://line.me/R/ti/p/nocrvlaXsY/): A chatbot for querying fleet information.
+9. Linebot Echoer:
+    - A chatbot for querying fleet information.
+    - [Link](https://line.me/R/ti/p/nocrvlaXsY/)
 
 For more information, please check his [GitHub](https://github.com/HuangLiPang)
