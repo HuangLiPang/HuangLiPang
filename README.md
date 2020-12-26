@@ -4,7 +4,13 @@
 ![](https://img.shields.io/badge/-Open%20To%20Work-brightgreen) ![](https://img.shields.io/badge/Seeking-Software%20Engineer-red)
 
 ### About me
-I am currently studying in the discipline of computer science :computer: and focusing on cyber-physical systems at the [University of Virginia](https://www.virginia.edu/) <img width="16.88px" height="15" src="https://i.imgur.com/CbORNOa.png" />. I am working on data privacy policy on IoT platforms at the [Link Lab](https://engineering.virginia.edu/link-lab). In addition, I have joined the [UVA DevHub](https://devhub.virginia.edu/) as a software engineer intern. I am responsible for developing a login-based dashboard as well as ingesting applications for sensor data from different sources.
+Currently
+- A computer science new graduate :mortar_board: from the [University of Virginia](https://www.virginia.edu/) <img width="16.88px" height="15" src="https://i.imgur.com/CbORNOa.png" />
+    - Focusing on cyber-physical systems track
+- A software engineer at the [UVA DevHub](https://devhub.virginia.edu/)
+    - Building infrastructure for integrating sensor data
+- A research assistant at the [Link Lab](https://engineering.virginia.edu/link-lab)
+    - Working on data privacy policy enforcement on [distributed IoT platforms](https://github.com/nabeeln7/on-the-edge)
 
 ### Get in touch
 <a href="https://www.linkedin.com/in/huanglipang" target="_blank">
