@@ -1,7 +1,7 @@
 # Projects
 1. Termifolio: 
     - My portfolio based on a web terminal.
-    - [Termifolio](https://huanglipang.me/)
+    - [Termifolio](https://termifolio.huanglipang.me/)
     - [Source code](https://github.com/HuangLiPang/termifolio)
 
 2. On the Edge: 
