@@ -40,6 +40,6 @@
 
 10. Linebot Echoer:
     - A chatbot for querying fleet information.
-    - [Link](https://line.me/R/ti/p/nocrvlaXsY/)
+    - [Link](http://line.me/R/ti/p/@vqv6210u)
 
 For more information, please check his [GitHub](https://github.com/HuangLiPang)
