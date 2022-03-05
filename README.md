@@ -1,16 +1,20 @@
 
 # Hello! 👋 I am Li-Pang Huang :grinning:
-###### tags: `GitHub README`
-![](https://img.shields.io/badge/-Open%20To%20Work-brightgreen) ![](https://img.shields.io/badge/Seeking-Software%20Engineer-red)
+###### tags: `Consolidata` `UVA`
+<!-- ![](https://img.shields.io/badge/-Open%20To%20Work-brightgreen) ![](https://img.shields.io/badge/Seeking-Software%20Engineer-red) -->
 
 ### About me
 Currently
+- A software engineer at [Consolidata](https://consolidata.one/)
+    - Building financial modeling platform
+
+Previously
 - A computer science new graduate :mortar_board: from the [University of Virginia](https://www.virginia.edu/) <img width="16.88px" height="15" src="https://i.imgur.com/CbORNOa.png" />
-    - Focusing on cyber-physical systems track
+    - Focused on cyber-physical systems
 - A software engineer at the [UVA DevHub](https://devhub.virginia.edu/)
-    - Building infrastructure for integrating sensor data
+    - Built infrastructure for integrating sensor data
 - A research assistant at the [Link Lab](https://engineering.virginia.edu/link-lab)
-    - Working on data privacy policy enforcement on [distributed IoT platforms](https://github.com/nabeeln7/on-the-edge)
+    - Worked on data privacy policy enforcement on [distributed IoT platforms](https://github.com/nabeeln7/on-the-edge)
 
 ### Get in touch
 <a href="https://www.linkedin.com/in/huanglipang" target="_blank">
@@ -19,23 +23,23 @@ Currently
 <a href="https://github.com/HuangLiPang" target="_blank">
   <img align="left" alt="github" width="25px" src="https://i.imgur.com/BYswT8D.png" />
 </a>
-<a href="https://huanglipang.me" target="_blank">
+<!-- <a href="https://huanglipang.me" target="_blank">
   <img align="left" alt="homepage" width="25px" src="https://i.imgur.com/CzvZnaa.png" />
 </a>
 <a href="https://info.huanglipang.me" target="_blank">
   <img align="left" alt="info" width="25px" src="https://i.imgur.com/OqAAXLh.png" />
-</a>
+</a> -->
 <a href="mailto:huanglipang@virginia.edu" target="_blank">
   <img align="left" alt="email" width="25px" src="https://i.imgur.com/AfHYq76.png" />
 </a>
-<a href="https://github.huanglipang.me/resume" target="_blank">
+<!-- <a href="https://github.huanglipang.me/resume" target="_blank">
   <img align="left" alt="resume" width="25px" src="https://i.imgur.com/DA0BgeJ.png" />
-</a>
+</a> -->
 
 <br>
-
+<!-- 
 ### Projects
-Please check [here](Projects.md).
+Please check [here](Projects.md). -->
 
 <br>
 
