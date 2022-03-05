@@ -6,7 +6,7 @@
 ### About me
 Currently
 - A software engineer at [Consolidata](https://consolidata.one/)
-    - Building financial modeling platform
+    - Building the best financial modeling platform
 
 Previously
 - A computer science new graduate :mortar_board: from the [University of Virginia](https://www.virginia.edu/) <img width="16.88px" height="15" src="https://i.imgur.com/CbORNOa.png" />
