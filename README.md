@@ -1,20 +1,26 @@
 
-# Hello! 👋 I am Li-Pang Huang :grinning:
-###### tags: `Consolidata` `UVA`
+# Hello! I am Li-Pang Huang :grinning:
+###### tags: `Prophet` `UVA`
 <!-- ![](https://img.shields.io/badge/-Open%20To%20Work-brightgreen) ![](https://img.shields.io/badge/Seeking-Software%20Engineer-red) -->
 
 ### About me
+I am a software engineer working in Philadelphia, PA
+
 Currently
-- A software engineer at [Consolidata](https://consolidata.one/)
-    - Building the best financial modeling platform
+- Software engineer at [Prophet](https://tryprophet.com/) <img width="17px" height="17" src="https://i.imgur.com/vYYIWJR.png" />
+    - Building the best financial modeling platform in the world
 
 Previously
-- A computer science new graduate :mortar_board: from the [University of Virginia](https://www.virginia.edu/) <img width="16.88px" height="15" src="https://i.imgur.com/CbORNOa.png" />
+- Computer science master student :mortar_board: at the [University of Virginia](https://www.virginia.edu/) <img width="16.88px" height="15" src="https://i.imgur.com/CbORNOa.png" />
     - Focused on cyber-physical systems
-- A software engineer at the [UVA DevHub](https://devhub.virginia.edu/)
+- Software engineer at [UVA DevHub](https://devhub.virginia.edu/)
     - Built infrastructure for integrating sensor data
-- A research assistant at the [Link Lab](https://engineering.virginia.edu/link-lab)
+- Research assistant at [Link Lab](https://engineering.virginia.edu/link-lab)
     - Worked on data privacy policy enforcement on [distributed IoT platforms](https://github.com/nabeeln7/on-the-edge)
+- Research assistant at [Academia Sinica](https://www.iis.sinica.edu.tw/) <img width="17px" height="17" src="https://i.imgur.com/vVAslDb.png" />
+    - Worked on [PM2.5 open data portal](https://pm25.lass-net.org/)
+- Engineer at [Evergreen Marine Corp.](https://www.evergreen-marine.com/) <img width="17px" height="17" src="https://i.imgur.com/zCzQPT0.png" />
+    - Developed fleet monitor web application
 
 ### Get in touch
 <a href="https://www.linkedin.com/in/huanglipang" target="_blank">
@@ -43,7 +49,7 @@ Please check [here](Projects.md). -->
 
 <br>
 
-![Li-Pang's github stats](https://github-readme-stats.vercel.app/api?username=huanglipang&show_icons=true)
+<!-- ![Li-Pang's github stats](https://github-readme-stats.vercel.app/api?username=huanglipang&show_icons=true) -->
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=huanglipang/huanglipang)
