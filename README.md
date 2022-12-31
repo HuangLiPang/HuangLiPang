@@ -1,16 +1,17 @@
 
 # Hello! I am Li-Pang Huang :grinning:
-###### tags: `Prophet` `UVA`
+###### tags: `Tempus` `Prophet` `UVA`
 <!-- ![](https://img.shields.io/badge/-Open%20To%20Work-brightgreen) ![](https://img.shields.io/badge/Seeking-Software%20Engineer-red) -->
 
 ### About me
-I am a software engineer working in Philadelphia, PA
+I am a software engineer working in NYC
 
 Currently
-- Software engineer at [Prophet](https://tryprophet.com/) <img width="17px" height="17" src="https://i.imgur.com/vYYIWJR.png" />
-    - Building the best financial modeling platform in the world
+- Software engineer at [Tempus](https://www.tempus.com/) <img width="17" height="17" src="https://i.imgur.com/Pg5NlGl.png" />
 
 Previously
+- Software engineer at [Prophet](https://tryprophet.com/) <img width="17px" height="17" src="https://i.imgur.com/vYYIWJR.png" />
+    - Building the best financial modeling platform in the world
 - Computer science master student :mortar_board: at the [University of Virginia](https://www.virginia.edu/) <img width="16.88px" height="15" src="https://i.imgur.com/CbORNOa.png" />
     - Focused on cyber-physical systems
 - Software engineer at [UVA DevHub](https://devhub.virginia.edu/)
